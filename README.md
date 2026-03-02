@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,15:350075,42:6600ff,72:0055ff,100:00f0ff&height=230&section=header&text=Miguel%20%C3%81ngel%20Colorado%20Marin&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=MACM%20%E2%80%94%20Full%20Stack%20%7C%20Cybersecurity%20%7C%20Builder&descSize=18&descAlignY=62&descColor=c7d2fe" width="100%"/>
+<a href="https://miguelacm.es"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,15:350075,42:6600ff,72:0055ff,100:00f0ff&height=230&section=header&text=Miguel%20%C3%81ngel%20Colorado%20Marin&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=MACM%20%E2%80%94%20Full%20Stack%20%7C%20Cybersecurity%20%7C%20Builder&descSize=18&descAlignY=62&descColor=c7d2fe" width="100%"/></a>
 
 <br/>
 
@@ -15,15 +15,15 @@
 
 <br/>
 
-![](https://img.shields.io/badge/🧠%20Self--taught-0d1117?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/⚡%20Coding%20since%20age%209-6600ff?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/🇪🇸%20Guadalajara%2C%20Spain-0055ff?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/🔐%20INCIBE%20%7C%20EcoInnTech-00f0ff?style=flat-square&logoColor=black)
-![](https://img.shields.io/badge/🎤%20Public%20Speaker-8b00ff?style=flat-square&logoColor=white)
+[![](https://img.shields.io/badge/🧠%20Self--taught-0d1117?style=flat-square&logoColor=white)](https://miguelacm.es)
+[![](https://img.shields.io/badge/⚡%20Coding%20since%20age%209-6600ff?style=flat-square&logoColor=white)](https://miguelacm.es)
+[![](https://img.shields.io/badge/🇪🇸%20Guadalajara%2C%20Spain-0055ff?style=flat-square&logoColor=white)](https://miguelacm.es)
+[![](https://img.shields.io/badge/🔐%20INCIBE%20%7C%20EcoInnTech-00f0ff?style=flat-square&logoColor=black)](https://miguelacm.es)
+[![](https://img.shields.io/badge/🎤%20Public%20Speaker-8b00ff?style=flat-square&logoColor=white)](https://miguelacm.es)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600ff,100:00f0ff&height=4&section=header" width="100%"/>
+<a href="https://github.com/m-a-c-m"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600ff,100:00f0ff&height=4&section=header" width="100%"/></a>
 
 ## 👨‍💻 About me
 
@@ -35,7 +35,7 @@ Part of the **EcoInnTech** team · Collaborates with **INCIBE** · Pitches to in
 
 > *"Build fast, ship clean, secure everything."*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:6600ff&height=4&section=header" width="100%"/>
+<a href="https://github.com/m-a-c-m"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:6600ff&height=4&section=header" width="100%"/></a>
 
 ## 🛠 Tech Stack
 
@@ -55,7 +55,7 @@ Part of the **EcoInnTech** team · Collaborates with **INCIBE** · Pitches to in
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600ff,100:00f0ff&height=4&section=header" width="100%"/>
+<a href="https://github.com/m-a-c-m"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600ff,100:00f0ff&height=4&section=header" width="100%"/></a>
 
 ## 🏆 GitHub Trophies
 
@@ -65,7 +65,7 @@ Part of the **EcoInnTech** team · Collaborates with **INCIBE** · Pitches to in
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:6600ff&height=4&section=header" width="100%"/>
+<a href="https://github.com/m-a-c-m"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:6600ff&height=4&section=header" width="100%"/></a>
 
 ## 🚀 Featured Projects
 
@@ -79,7 +79,7 @@ Part of the **EcoInnTech** team · Collaborates with **INCIBE** · Pitches to in
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600ff,100:00f0ff&height=4&section=header" width="100%"/>
+<a href="https://github.com/m-a-c-m"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600ff,100:00f0ff&height=4&section=header" width="100%"/></a>
 
 ## 🧰 Open Source Tools
 
@@ -94,7 +94,7 @@ Actively building and shipping **free, open-source browser tools** — new ones 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:6600ff&height=4&section=header" width="100%"/>
+<a href="https://github.com/m-a-c-m"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:6600ff&height=4&section=header" width="100%"/></a>
 
 ## 🎖 Achievements
 
@@ -109,22 +109,22 @@ Actively building and shipping **free, open-source browser tools** — new ones 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600ff,100:00f0ff&height=4&section=header" width="100%"/>
+<a href="https://github.com/m-a-c-m"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600ff,100:00f0ff&height=4&section=header" width="100%"/></a>
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=m-a-c-m&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=6600ff&text_color=e2e8f0&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-a-c-m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=e2e8f0&langs_count=6" alt="Top Languages"/>
+<a href="https://github.com/m-a-c-m"><img height="175" src="https://github-readme-stats.vercel.app/api?username=m-a-c-m&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=6600ff&text_color=e2e8f0&count_private=true&include_all_commits=true" alt="GitHub Stats"/></a>
+<a href="https://github.com/m-a-c-m?tab=repositories"><img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-a-c-m&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=e2e8f0&langs_count=6" alt="Top Languages"/></a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=m-a-c-m&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=ff1a1a&currStreakLabel=00f0ff&sideLabels=e2e8f0&dates=94a3b8" alt="GitHub Streak"/>
+<a href="https://github.com/m-a-c-m"><img src="https://streak-stats.demolab.com/?user=m-a-c-m&theme=tokyonight&hide_border=true&background=0d1117&ring=00f0ff&fire=ff1a1a&currStreakLabel=00f0ff&sideLabels=e2e8f0&dates=94a3b8" alt="GitHub Streak"/></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:6600ff&height=4&section=header" width="100%"/>
+<a href="https://github.com/m-a-c-m"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:6600ff&height=4&section=header" width="100%"/></a>
 
 ## 📈 Activity Graph
 
@@ -134,7 +134,7 @@ Actively building and shipping **free, open-source browser tools** — new ones 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600ff,100:00f0ff&height=4&section=header" width="100%"/>
+<a href="https://github.com/m-a-c-m"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:6600ff,100:00f0ff&height=4&section=header" width="100%"/></a>
 
 ## 🐍 Contribution Snake
 
@@ -156,6 +156,6 @@ Actively building and shipping **free, open-source browser tools** — new ones 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,30:0055ff,65:6600ff,85:350075,100:0d0221&height=130&section=footer" width="100%"/>
+<a href="https://miguelacm.es"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,30:0055ff,65:6600ff,85:350075,100:0d0221&height=130&section=footer" width="100%"/></a>
 
 </div>
