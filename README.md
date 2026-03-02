@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4f46e5,100:00d4ff&height=220&section=header&text=Miguel%20%C3%81ngel%20Colorado%20Marin&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=MACM%20%E2%80%94%20Full%20Stack%20%7C%20Cybersecurity%20%7C%20Builder&descSize=18&descAlignY=62&descColor=c7d2fe" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:991b1b,20:7c3aed,65:4f46e5,100:00d4ff&height=220&section=header&text=Miguel%20%C3%81ngel%20Colorado%20Marin&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=MACM%20%E2%80%94%20Full%20Stack%20%7C%20Cybersecurity%20%7C%20Builder&descSize=18&descAlignY=62&descColor=c7d2fe" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=false&width=680&lines=Full+Stack+Developer+%F0%9F%9A%80;Cybersecurity+Specialist+%F0%9F%94%90;Building+tools+people+actually+use+%F0%9F%9B%A0%EF%B8%8F;Shipping+something+new+every+week+%E2%9A%A1;18+y%2Fo+%C2%B7+Guadalajara%2C+Spain+%F0%9F%87%AA%F0%9F%87%B8)](https://miguelacm.es)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=680&lines=Full+Stack+Developer+%F0%9F%9A%80;Cybersecurity+Specialist+%F0%9F%94%90;Building+tools+people+actually+use+%F0%9F%9B%A0%EF%B8%8F;Shipping+something+new+every+week+%E2%9A%A1;18+y%2Fo+%C2%B7+Guadalajara%2C+Spain+%F0%9F%87%AA%F0%9F%87%B8)](https://miguelacm.es)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20miguelacm.es-0d1117?style=for-the-badge&logoColor=00d4ff)](https://miguelacm.es)
+[![Portfolio](https://img.shields.io/badge/🌐%20miguelacm.es-0d1117?style=for-the-badge)](https://miguelacm.es)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/macm/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelacm.es@gmail.com)
 [![Profile Views](https://komarev.com/ghpvc/?username=m-a-c-m&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/m-a-c-m)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:dc2626,50:7c3aed,100:00d4ff&height=3&section=header" width="100%"/>
 
 ## 👨‍💻 About me
 
@@ -25,7 +25,7 @@ I design and ship **high-performance web applications**, integrate AI into produ
 
 > *"Build fast, ship clean, secure everything."*
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,50:7c3aed,100:dc2626&height=3&section=header" width="100%"/>
 
 ## 🛠 Tech Stack
 
@@ -45,7 +45,7 @@ I design and ship **high-performance web applications**, integrate AI into produ
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:dc2626,50:7c3aed,100:00d4ff&height=3&section=header" width="100%"/>
 
 ## 🏆 GitHub Trophies
 
@@ -55,7 +55,7 @@ I design and ship **high-performance web applications**, integrate AI into produ
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,50:7c3aed,100:dc2626&height=3&section=header" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -64,12 +64,12 @@ I design and ship **high-performance web applications**, integrate AI into produ
 | Project | Description | Stack |
 |---|---|---|
 | **[UNEDRA](https://unedra.com)** | AI productivity SaaS — file manager, AI assistant, encrypted password vault, real-time collaboration. 10 languages · Web · iOS · Android · Desktop. | Next.js · NestJS · PostgreSQL · OpenAI |
-| **[TalentHub Factor5](https://miguelacm.es)** | HR management platform built for EcoInnTech — Kanban, org chart, calendar, analytics and AI assistant. Full-stack. | Next.js · NestJS · TypeScript |
+| **[TalentHub Factor5](https://miguelacm.es)** | HR management platform built for EcoInnTech — Kanban, org chart, calendar, analytics and AI assistant. | Next.js · NestJS · TypeScript |
 | **[NaturCargo](https://naturcargo.com)** | Professional site for a refrigerated transport company. Google Maps, fleet gallery, structured SEO data. | Next.js · TypeScript · Tailwind |
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:dc2626,50:7c3aed,100:00d4ff&height=3&section=header" width="100%"/>
 
 ## 🧰 Open Source Tools
 
@@ -84,7 +84,7 @@ Zero ads · Zero sign-up · Zero server · 100% client-side.
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,50:7c3aed,100:dc2626&height=3&section=header" width="100%"/>
 
 ## 🎖 Achievements
 
@@ -99,7 +99,7 @@ Zero ads · Zero sign-up · Zero server · 100% client-side.
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:dc2626,50:7c3aed,100:00d4ff&height=3&section=header" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -110,21 +110,21 @@ Zero ads · Zero sign-up · Zero server · 100% client-side.
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=m-a-c-m&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=e2e8f0&dates=94a3b8" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=m-a-c-m&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=dc2626&currStreakLabel=00d4ff&sideLabels=e2e8f0&dates=94a3b8" alt="GitHub Streak"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,50:7c3aed,100:dc2626&height=3&section=header" width="100%"/>
 
 ## 📈 Activity Graph
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m-a-c-m&bg_color=0d1117&color=00d4ff&line=7c3aed&point=00d4ff&area=true&area_color=7c3aed&hide_border=true)](https://github.com/m-a-c-m)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m-a-c-m&bg_color=0d1117&color=00d4ff&line=7c3aed&point=dc2626&area=true&area_color=7c3aed&hide_border=true)](https://github.com/m-a-c-m)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:dc2626,50:7c3aed,100:00d4ff&height=3&section=header" width="100%"/>
 
 ## 🐍 Contribution Snake
 
@@ -138,14 +138,14 @@ Zero ads · Zero sign-up · Zero server · 100% client-side.
 
 </div>
 
----
-
 <div align="center">
+
+<br/>
 
 *Open to freelance projects and collaboration — feel free to reach out.*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:4f46e5,100:7c3aed&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:4f46e5,80:7c3aed,100:991b1b&height=130&section=footer" width="100%"/>
 
 </div>
