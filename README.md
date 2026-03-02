@@ -18,7 +18,6 @@
 [![](https://img.shields.io/badge/🧠%20Self--taught-0d1117?style=flat-square&logoColor=white)](https://miguelacm.es)
 [![](https://img.shields.io/badge/⚡%20Coding%20since%20age%209-6600ff?style=flat-square&logoColor=white)](https://miguelacm.es)
 [![](https://img.shields.io/badge/🇪🇸%20Guadalajara%2C%20Spain-0055ff?style=flat-square&logoColor=white)](https://miguelacm.es)
-[![](https://img.shields.io/badge/🔐%20INCIBE%20%7C%20EcoInnTech-00f0ff?style=flat-square&logoColor=black)](https://miguelacm.es)
 [![](https://img.shields.io/badge/🎤%20Public%20Speaker-8b00ff?style=flat-square&logoColor=white)](https://miguelacm.es)
 
 </div>
@@ -31,7 +30,7 @@ I'm an **18-year-old** self-taught <kbd>Full Stack Developer</kbd> and <kbd>Cybe
 
 I've been dealing with real malware since I was **9** — worms, adware, trojans, keyloggers — which forged an analytical and methodical mindset that drives everything I build today. I design and ship **high-performance web applications**, integrate AI into products, and never compromise on security.
 
-Part of the **EcoInnTech** team · Collaborates with **INCIBE** · Pitches to investors at Spain's largest tech events.
+Pitching to investors at Spain's largest tech events. Currently building in public — new open-source tools every week.
 
 > *"Build fast, ship clean, secure everything."*
 
@@ -74,7 +73,7 @@ Part of the **EcoInnTech** team · Collaborates with **INCIBE** · Pitches to in
 | Project | Description | Stack |
 |---|---|---|
 | **[UNEDRA](https://unedra.com)** | AI productivity SaaS — file manager, AI assistant, encrypted password vault, real-time collaboration. <kbd>10 languages</kbd> · Web · iOS · Android · Desktop. | Next.js · NestJS · PostgreSQL · OpenAI |
-| **[TalentHub Factor5](https://miguelacm.es)** | HR management platform for EcoInnTech — Kanban, org chart, calendar, analytics and AI assistant. Full-stack. | Next.js · NestJS · TypeScript |
+| **[TalentHub Factor5](https://miguelacm.es)** | HR management SaaS — Kanban, org chart, calendar, analytics and AI assistant. Full-stack. | Next.js · NestJS · TypeScript |
 | **[NaturCargo](https://naturcargo.com)** | Professional site for a refrigerated transport company. Google Maps, fleet gallery, structured SEO data. | Next.js · TypeScript · Tailwind |
 
 </div>
