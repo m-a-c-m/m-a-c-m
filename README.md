@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:991b1b,20:7c3aed,65:4f46e5,100:00d4ff&height=220&section=header&text=Miguel%20%C3%81ngel%20Colorado%20Marin&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=MACM%20%E2%80%94%20Full%20Stack%20%7C%20Cybersecurity%20%7C%20Builder&descSize=18&descAlignY=62&descColor=c7d2fe" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b0764,30:7c3aed,65:4f46e5,100:00d4ff&height=220&section=header&text=Miguel%20%C3%81ngel%20Colorado%20Marin&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=MACM%20%E2%80%94%20Full%20Stack%20%7C%20Cybersecurity%20%7C%20Builder&descSize=18&descAlignY=62&descColor=c7d2fe" width="100%"/>
 
 <br/>
 
@@ -15,17 +15,28 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:dc2626,50:7c3aed,100:00d4ff&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:00d4ff&height=4&section=header" width="100%"/>
 
 ## 👨‍💻 About me
 
+<div align="center">
+
+![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-00d4ff?style=flat-square&logoColor=black)
+![Cybersecurity Specialist](https://img.shields.io/badge/Cybersecurity%20Specialist-7c3aed?style=flat-square&logoColor=white)
+![AI Integration](https://img.shields.io/badge/AI%20Integration-4f46e5?style=flat-square&logoColor=white)
+![Open Source](https://img.shields.io/badge/Open%20Source%20Builder-1e293b?style=flat-square&logoColor=white)
+
+</div>
+
+<br/>
+
 I'm an 18-year-old self-taught **Full Stack Developer** and **Cybersecurity Specialist** from Guadalajara, Spain. I've been dealing with real malware since I was 9 — worms, adware, trojans, keyloggers — which forged an analytical and methodical mindset that drives everything I build today.
 
-I design and ship **high-performance web applications**, integrate AI into products, and never compromise on security. I'm part of the EcoInnTech team, collaborate with INCIBE, and have pitched to investors at some of Spain's largest tech events.
+I design and ship **high-performance web applications**, integrate AI into products, and never compromise on security. I'm part of the **EcoInnTech** team, collaborate with **INCIBE**, and have pitched to investors at some of Spain's largest tech events.
 
 > *"Build fast, ship clean, secure everything."*
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,50:7c3aed,100:dc2626&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,100:7c3aed&height=4&section=header" width="100%"/>
 
 ## 🛠 Tech Stack
 
@@ -45,7 +56,7 @@ I design and ship **high-performance web applications**, integrate AI into produ
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:dc2626,50:7c3aed,100:00d4ff&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:00d4ff&height=4&section=header" width="100%"/>
 
 ## 🏆 GitHub Trophies
 
@@ -55,7 +66,7 @@ I design and ship **high-performance web applications**, integrate AI into produ
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,50:7c3aed,100:dc2626&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,100:7c3aed&height=4&section=header" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -63,20 +74,20 @@ I design and ship **high-performance web applications**, integrate AI into produ
 
 | Project | Description | Stack |
 |---|---|---|
-| **[UNEDRA](https://unedra.com)** | AI productivity SaaS — file manager, AI assistant, encrypted password vault, real-time collaboration. 10 languages · Web · iOS · Android · Desktop. | Next.js · NestJS · PostgreSQL · OpenAI |
+| **[UNEDRA](https://unedra.com)** | AI productivity SaaS — file manager, AI assistant, encrypted password vault, real-time collaboration. `10 languages` · Web · iOS · Android · Desktop. | Next.js · NestJS · PostgreSQL · OpenAI |
 | **[TalentHub Factor5](https://miguelacm.es)** | HR management platform built for EcoInnTech — Kanban, org chart, calendar, analytics and AI assistant. | Next.js · NestJS · TypeScript |
 | **[NaturCargo](https://naturcargo.com)** | Professional site for a refrigerated transport company. Google Maps, fleet gallery, structured SEO data. | Next.js · TypeScript · Tailwind |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:dc2626,50:7c3aed,100:00d4ff&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:00d4ff&height=4&section=header" width="100%"/>
 
 ## 🧰 Open Source Tools
 
 <div align="center">
 
 I'm actively building and shipping **free, open-source browser tools** — new ones dropping regularly.<br/>
-Zero ads · Zero sign-up · Zero server · 100% client-side.
+`Zero ads` · `Zero sign-up` · `Zero server` · `100% client-side`
 
 <br/>
 
@@ -84,7 +95,7 @@ Zero ads · Zero sign-up · Zero server · 100% client-side.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,50:7c3aed,100:dc2626&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,100:7c3aed&height=4&section=header" width="100%"/>
 
 ## 🎖 Achievements
 
@@ -92,14 +103,14 @@ Zero ads · Zero sign-up · Zero server · 100% client-side.
 
 | | |
 |:---:|:---|
-| 🎤 | **Speaker — Al-Andalus Innovation Venture 2025** · Sevilla · 2,800+ attendees · 810 startups · 192 investors |
+| 🎤 | **Speaker — Al-Andalus Innovation Venture 2025** · Sevilla · `2,800+` attendees · `810` startups · `192` investors |
 | 🥈 | **2nd Place — EcoInnTech Business Awards 2024** · November 2024 |
 | 🔐 | **Finalist — Hackathon CiberGu 2025** (INCIBE) · 2nd consecutive year · Senior & Junior categories |
-| 🔐 | **Finalist — Hackathon CiberGu 2024** (INCIBE) · 300+ attendees · 13h of real pentesting & forensics |
+| 🔐 | **Finalist — Hackathon CiberGu 2024** (INCIBE) · `300+` attendees · `13h` of real pentesting & forensics |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:dc2626,50:7c3aed,100:00d4ff&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:00d4ff&height=4&section=header" width="100%"/>
 
 ## 📊 GitHub Stats
 
@@ -114,7 +125,7 @@ Zero ads · Zero sign-up · Zero server · 100% client-side.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,50:7c3aed,100:dc2626&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00d4ff,100:7c3aed&height=4&section=header" width="100%"/>
 
 ## 📈 Activity Graph
 
@@ -124,7 +135,7 @@ Zero ads · Zero sign-up · Zero server · 100% client-side.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:dc2626,50:7c3aed,100:00d4ff&height=3&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7c3aed,100:00d4ff&height=4&section=header" width="100%"/>
 
 ## 🐍 Contribution Snake
 
@@ -146,6 +157,6 @@ Zero ads · Zero sign-up · Zero server · 100% client-side.
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:4f46e5,80:7c3aed,100:991b1b&height=130&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,40:4f46e5,75:7c3aed,100:3b0764&height=130&section=footer" width="100%"/>
 
 </div>
