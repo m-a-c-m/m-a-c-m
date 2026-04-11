@@ -18,6 +18,7 @@
 [![](https://img.shields.io/badge/🧠%20Self--taught-0d1117?style=flat-square&logoColor=white)](https://miguelacm.es)
 [![](https://img.shields.io/badge/⚡%20Coding%20since%20age%209-6600ff?style=flat-square&logoColor=white)](https://miguelacm.es)
 [![](https://img.shields.io/badge/🇪🇸%20Guadalajara%2C%20Spain-0055ff?style=flat-square&logoColor=white)](https://miguelacm.es)
+[![](https://img.shields.io/badge/🥇%20CiberGu%202026%20Winner-f59e0b?style=flat-square&logoColor=white)](https://miguelacm.es)
 [![](https://img.shields.io/badge/🎤%20Public%20Speaker-8b00ff?style=flat-square&logoColor=white)](https://miguelacm.es)
 
 </div>
@@ -30,7 +31,7 @@ I'm an **18-year-old** self-taught <kbd>Full Stack Developer</kbd> and <kbd>Cybe
 
 I've been dealing with real malware since I was **9** — worms, adware, trojans, keyloggers — which forged an analytical and methodical mindset that drives everything I build today. I design and ship **high-performance web applications**, integrate AI into products, and never compromise on security.
 
-Pitching to investors at Spain's largest tech events. Currently building in public — new open-source tools every week.
+**Winner of CiberGu 2026** (1st place Senior category) with «Escudo Protector», a vishing protection tool. Pitching to investors at Spain's largest tech events. Currently building in public — new open-source tools every week.
 
 > *"Build fast, ship clean, secure everything."*
 
@@ -101,10 +102,11 @@ Actively building and shipping **free, open-source browser tools** — new ones 
 
 | | |
 |:---:|:---|
+| 🥇 | **1st Place (Senior) — CiberGu Cybersecurity Hackathon 2026** (INCIBE & CEEI) · Project «Escudo Protector» · <kbd>34 participants</kbd> · <kbd>14h</kbd> · Espacio TYCE, Guadalajara |
 | 🎤 | **Speaker — Al-Andalus Innovation Venture 2025** · Sevilla · <kbd>2,800+ attendees</kbd> · <kbd>810 startups</kbd> · <kbd>192 investors</kbd> |
 | 🥈 | **2nd Place — EcoInnTech Business Awards 2024** · November 2024 |
-| 🔐 | **Finalist — Hackathon CiberGu 2025** (INCIBE) · 2nd consecutive year · Senior & Junior categories |
-| 🔐 | **Finalist — Hackathon CiberGu 2024** (INCIBE) · <kbd>300+ attendees</kbd> · <kbd>13h</kbd> real pentesting & forensics |
+| 🔐 | **Finalist — CiberGu Cybersecurity Hackathon 2025** (INCIBE) · Senior & Junior categories |
+| 🔐 | **Finalist — CiberGu Cybersecurity Hackathon 2024** (INCIBE) · <kbd>300+ attendees</kbd> · <kbd>13h</kbd> real pentesting & forensics |
 
 </div>
 
