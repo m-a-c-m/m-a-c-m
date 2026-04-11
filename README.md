@@ -31,7 +31,7 @@ I'm an **18-year-old** self-taught <kbd>Full Stack Developer</kbd> and <kbd>Cybe
 
 I've been dealing with real malware since I was **9** — worms, adware, trojans, keyloggers — which forged an analytical and methodical mindset that drives everything I build today. I design and ship **high-performance web applications**, integrate AI into products, and never compromise on security.
 
-**Winner of CiberGu 2026** (1st place Senior category) with «Escudo Protector», a vishing protection tool. Pitching to investors at Spain's largest tech events. Currently building in public — new open-source tools every week.
+**Winner of CiberGu 2026** (1st place Senior category) with «RingReal», a vishing protection tool. Pitching to investors at Spain's largest tech events. Currently building in public — new open-source tools every week.
 
 > *"Build fast, ship clean, secure everything."*
 
@@ -102,7 +102,7 @@ Actively building and shipping **free, open-source browser tools** — new ones 
 
 | | |
 |:---:|:---|
-| 🥇 | **1st Place (Senior) — CiberGu Cybersecurity Hackathon 2026** (INCIBE & CEEI) · Project «Escudo Protector» · <kbd>34 participants</kbd> · <kbd>14h</kbd> · Espacio TYCE, Guadalajara |
+| 🥇 | **1st Place (Senior) — CiberGu Cybersecurity Hackathon 2026** (INCIBE & CEEI) · Project «RingReal» · <kbd>34 participants</kbd> · <kbd>14h</kbd> · Espacio TYCE, Guadalajara |
 | 🎤 | **Speaker — Al-Andalus Innovation Venture 2025** · Sevilla · <kbd>2,800+ attendees</kbd> · <kbd>810 startups</kbd> · <kbd>192 investors</kbd> |
 | 🥈 | **2nd Place — EcoInnTech Business Awards 2024** · November 2024 |
 | 🔐 | **Finalist — CiberGu Cybersecurity Hackathon 2025** (INCIBE) · Senior & Junior categories |
