@@ -27,7 +27,7 @@
 
 ## 👨‍💻 About me
 
-I'm an **18-year-old** self-taught <kbd>Full Stack Developer</kbd> and <kbd>Cybersecurity Specialist</kbd> from Guadalajara, Spain.
+I'm an **19-year-old** self-taught <kbd>Full Stack Developer</kbd> and <kbd>Cybersecurity Specialist</kbd> from Guadalajara, Spain.
 
 I've been dealing with real malware since I was **9** — worms, adware, trojans, keyloggers — which forged an analytical and methodical mindset that drives everything I build today. I design and ship **high-performance web applications**, integrate AI into products, and never compromise on security.
 
